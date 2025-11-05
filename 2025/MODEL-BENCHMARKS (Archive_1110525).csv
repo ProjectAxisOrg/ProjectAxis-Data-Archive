@@ -1,6 +1,0 @@
-Model,Year,Reasoning,Knowledge,Vision,Coding,Instruction Following,Avg Score
-☆ OpenAI GPT-5,2025,93%,91%,84%,75%,92%,87%
-Grok 4,2025,94%,88%,78%,75%,90%,85%
-OpenAI o3,2025,92%,89%,83%,65%,91%,84%
-Google Gemini 2.5 Pro,2025,94%,98%,84%,68%,92%,84%
-Meta Llama 3.3 70B,2024,87%,89%,60%,88%,87%,82%
